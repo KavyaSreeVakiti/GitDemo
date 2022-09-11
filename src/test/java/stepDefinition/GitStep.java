@@ -24,6 +24,6 @@ public class GitStep
     @Then("user registration should be successful")
     public void user_registration_should_be_successful()
     {
-        System.out.println("user registration should not be successful");//code changed by A
+        System.out.println("user registration should not be successful");//code changed by A1
     }
 }
